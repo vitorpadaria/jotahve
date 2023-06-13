@@ -14,20 +14,21 @@ body{
     color: black;
     background-color: rgb(40, 204, 81);
     font-weight: bold;
-    border-radius: 50px;
-    width: 70px;
+    border-radius: 15px;
+    width: 80px;
     border: none;
     cursor: pointer;
 }
 
 .botao2{
+    margin-left: 55px;
     padding: 1%;
     font-size: 15px;
     color: black;
     background-color: rgb(248, 1, 1);
     font-weight: bold;
-    border-radius: 50px;
-    width: 70px;
+    border-radius: 15px;
+    width: 80px;
     border: none;
     cursor: pointer;
 }
